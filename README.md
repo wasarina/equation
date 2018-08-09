@@ -1,1 +1,2 @@
-"# equation" 
+<? php
+echo "hello world"
